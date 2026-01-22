@@ -5,3 +5,4 @@ requests
 fastmcp
 openai
 dotenv
+#download the required packages for database handling
