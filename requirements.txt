@@ -1,0 +1,7 @@
+#download the required packages:
+fastapi
+uvicorn
+requests
+fastmcp
+openai
+dotenv
